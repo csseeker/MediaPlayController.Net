@@ -13,4 +13,4 @@ Windows Application that lets you play multiple audio files in a folder with eas
 * **Progress Indicator**: Keep track of the progress of the currently playing audio with our new progress indicator. Stay in sync with your cues.
 * **Log Extraction**: Need to report an issue or share feedback with our developer? You can now extract application logs with ease. Simply use the provided feature to generate a log file for review.
 
-For latest release, visit [here](https://github.com/csseeker/MediaPlayController.Net/releases).
+For latest release, visit **[here](https://github.com/csseeker/MediaPlayController.Net/releases)**.
