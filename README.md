@@ -1,25 +1,16 @@
-# Media Play Controller
+Welcome to the MediaPlayController.Net wiki!
 
-Welcome to the Media Play Controller repository! This open-source project is designed to simplify audio playback control, making it your ideal companion for theater productions, presentations, or any scenario where precise audio cues matter.
+***What is it?***
 
-## Key Features
+Windows Application that lets you play multiple audio files in a folder with easy setup, controlled playback, rewind and forward, progress indicator etc, ideal for theater productions.
 
-- **Theater-Friendly**: Tailored for theater productions, this application allows you to manage and play multiple audio files (*.wav, *.mp3) effortlessly.
+***I am sorry, What does that even mean?***
 
-- **Intuitive Interface**: Our user-friendly interface ensures smooth control over audio playback, making sound cue management a breeze.
+* **Theater-Friendly**: Crafted with theater productions in mind, this application is perfect for situations where you need to play a multitude of audio files (*.wav, *.mp3) in a controlled manner.
+* **Easy Setup**: Just gather all your audio files in a folder and select the folder when you run this application. No more fumbling with sound cues!
+* **Controlled Playback**: Our user-friendly interface allows you to easily control the playback of your audio files, ensuring that your sound cues are always on point.
+* **Rewind and Forward**: Now, you have the ability to rewind and forward through audio tracks with intuitive controls. Seamlessly navigate to the precise point you need.
+* **Progress Indicator**: Keep track of the progress of the currently playing audio with our new progress indicator. Stay in sync with your cues.
+* **Log Extraction**: Need to report an issue or share feedback with our developer? You can now extract application logs with ease. Simply use the provided feature to generate a log file for review.
 
-- **Navigation Control**: Seamlessly rewind and forward through audio tracks with visual feedback. Easily locate and pinpoint the desired moments in your audio cues.
-
-- **Progress Indicator**: Keep track of the progress of the currently playing audio with a clear visual indicator. Stay synchronized with your cues.
-
-- **Log Extraction**: Troubleshooting made easy! Extract application logs for sharing with the developer if you encounter any issues or have feedback for improvements.
-
-## Getting Started
-
-Explore the intuitive user interface and start using the Media Play Controller for your audio playback needs.
-
-## Disclaimer
-
-Please note that this repository contains the beta version of Media Play Controller. While we've done our best to ensure smooth operation, there may be unforeseen bugs or issues. We appreciate your understanding and value your contributions to make this project better.
-
-Thank you for choosing Media Play Controller. Let's enhance your audio cue management experience together!
+For latest release, visit here: https://github.com/csseeker/MediaPlayController.Net/releases
